@@ -25,7 +25,7 @@ In this challenge you will practice writing psuedocode from existing code in bot
 
 ### Write Standard Pseudocode for Ruby
 
-Translate the given Ruby method in Your Repo into pseudocode, including comments. See [here](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html) for examples and good guidlines on formatting. Most importantly, your pseudocode should follow these [principles](http://www.cs.cornell.edu/Courses/cs482/2003su/handouts/pseudocode.pdf).
+Translate the given Ruby method in your repo into pseudocode, including comments. See [here](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html) for examples and good guidlines on formatting. Most importantly, your pseudocode should follow these [principles](http://www.cs.cornell.edu/Courses/cs482/2003su/handouts/pseudocode.pdf).
 
 ##Releases
 ###Release 0
