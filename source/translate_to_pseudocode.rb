@@ -1,4 +1,4 @@
-# The grid is an array of arrays contianing
+# The grid is an array of arrays containing
 # rocks and gold, something like this:
 # [ ['R', 'R', 'G'],
 #   ['R', 'G', 'R'],

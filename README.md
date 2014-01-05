@@ -2,6 +2,9 @@
 
 ##Learning Competencies
 
+* Writing Pseudocode
+* Reading and tracing code
+
 ##Summary
 
 Learning to program means learning to approach problems in a new way. It requires breaking them down into components that can be expressed in code.
@@ -12,24 +15,15 @@ Part of being an effective programmer is the ability to communicate the function
 
 In this challenge you will practice writing psuedocode from existing code in both Ruby and other languages. Work through the code and make sure you understand what it does before you write your psuedocode. Your psuedocode should abstract out the process of the program without being code specific.
 
-###External Resources
-* [Psuedocode](http://www.cs.cornell.edu/Courses/cs482/2003su/handouts/pseudocode.pdf) by Naomi Nishimura from Cornell
-* [Pseudocode Standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html) from CalPoly
+##Releases
 
-
-###Learning Goals
-* Writing Pseudocode
-* Reading and tracing code
-
-## Objectives
-
-### Write Standard Pseudocode for Ruby
+###Release 0 : Write Standard Pseudocode for Ruby
 
 Translate the given Ruby method in your repo into pseudocode, including comments. See [here](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html) for examples and good guidlines on formatting. Most importantly, your pseudocode should follow these [principles](http://www.cs.cornell.edu/Courses/cs482/2003su/handouts/pseudocode.pdf).
 
-##Releases
-###Release 0
-
-##Optimize Your Learning
+<!-- ##Optimize Your Learning -->
 
 ##Resources
+
+* [Psuedocode](http://www.cs.cornell.edu/Courses/cs482/2003su/handouts/pseudocode.pdf) by Naomi Nishimura from Cornell
+* [Pseudocode Standard](http://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html) from CalPoly
