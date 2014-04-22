@@ -23,12 +23,11 @@ def pick_up_the_gold(grid)
       x += 1
     end
   end
-  
-  raise "Oops, looks like we missed one" if grid.include? 'G'
-  
+
+  raise "Oops, looks like we missed one" if grid.flatten.include? 'G'
+
   puts "You picked up #{gold_sachel.count} pieces of gold!"
 end
 
 # __________________________
 # WRITE YOUR PSEUDOCODE HERE
-
