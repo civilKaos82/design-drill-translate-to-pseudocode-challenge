@@ -1,10 +1,5 @@
 # Design Drill Translate To Pseudocode
 
-##Learning Competencies
-
-* Writing Pseudocode
-* Reading and tracing code
-
 ##Summary
 
 Learning to program means learning to approach problems in a new way. It requires breaking them down into components that can be expressed in code.
