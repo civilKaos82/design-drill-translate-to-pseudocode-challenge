@@ -6,7 +6,7 @@
 
 def grab_gold(grid)
   gold_satchel = []
-  x, y        = 0, 0
+  x, y         = 0, 0
 
   while y < grid.length
     current_sq  = grid[y][x]
