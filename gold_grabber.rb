@@ -1,21 +1,21 @@
 # The grid is an array of arrays containing
 # rocks and gold, something like this:
-# [ ['R', 'R', 'G'],
-#   ['R', 'G', 'R'],
-#   ['R', 'G', 'G'] ]
+# [ [:R, :R, :G],
+#   [:R, :G, :R],
+#   [:R, :G, :G] ]
 
-def pick_up_the_gold(grid)
-  gold_sachel = []
+def gold_grabber(grid)
+  gold_satchel = []
   x, y        = 0, 0
 
   while y < grid.length
     current_sq  = grid[y][x]
-    
-    if current_sq == 'G'
-      gold_sachel.push 'G'
-      grid[y][x] = 'R'
+
+    if current_sq == :G
+      gold_satchel.push :G
+      grid[y][x] = :R
     end
-    
+
     if x == (grid[y].length - 1)
       x = 0
       y += 1
@@ -24,10 +24,7 @@ def pick_up_the_gold(grid)
     end
   end
 
-  raise "Oops, looks like we missed one" if grid.flatten.include? 'G'
+  raise "Oops, looks like we missed some gold" if grid.flatten.include? :G
 
-  puts "You picked up #{gold_sachel.count} pieces of gold!"
+  gold_satchel
 end
-
-# __________________________
-# WRITE YOUR PSEUDOCODE HERE
