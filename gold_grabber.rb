@@ -24,7 +24,5 @@ def gold_grabber(grid)
     end
   end
 
-  raise "Oops, looks like we missed some gold" if grid.flatten.include? :G
-
   gold_satchel
 end
