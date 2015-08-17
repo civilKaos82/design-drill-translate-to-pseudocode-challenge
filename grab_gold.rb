@@ -4,7 +4,7 @@
 #   [:R, :G, :R],
 #   [:R, :G, :G] ]
 
-def gold_grabber(grid)
+def grab_gold(grid)
   gold_satchel = []
   x, y        = 0, 0
 

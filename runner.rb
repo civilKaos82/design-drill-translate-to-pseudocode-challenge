@@ -1,4 +1,4 @@
-require_relative 'gold_grabber'
+require_relative 'grab_gold'
 
 grid = [
   [:R, :R, :G],
@@ -6,6 +6,6 @@ grid = [
   [:R, :G, :G]
 ]
 
-gold_pieces = gold_grabber(grid)
+gold_pieces = grab_gold(grid)
 
 puts "We grabbed #{gold_pieces.count} pieces of gold!"

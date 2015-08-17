@@ -10,13 +10,13 @@ In this challenge, instead of translating our solution to a problem into pseudoc
 
 ## Releases
 ### Release 0: Understand the Code
-We're going to write pseudocode that describes how the `gold_grabber` method functions (see `gold_grabber.rb`).  The first step is to read through the method to understand how it functions.  If it helps to see how the method is used, see and run `runner.rb`.
+We're going to write pseudocode that describes how the `grab_gold` method functions (see `grab_gold.rb`).  The first step is to read through the method to understand how it functions.  If it helps to see how the method is used, see and run `runner.rb`.
 
-*Note:*  The code in the `gold_grabber` method is not exemplary (e.g., poor variable naming).  This is intentional; we need to be able to read and understand code—even poorly written code.
+*Note:*  The code in the `grab_gold` method is not exemplary (e.g., poor variable naming).  This is intentional; we need to be able to read and understand code—even poorly written code.
 
 
 ### Release 1: Translate to Pseudocode
-Once we understand how the `gold_grabber` method is working, we can record that understanding as pseudocode; we'll write our code in the file `pseudocode.txt`.  There are not hard-and-fast rules around pseudocode, but we should follow some [guidelines].  If we're struggling to find the right level of detail, the right mix of English and coding terms, etc. we can reference this [standard], which provides some examples.
+Once we understand how the `grab_gold` method is working, we can record that understanding as pseudocode; we'll write our code in the file `pseudocode.txt`.  There are not hard-and-fast rules around pseudocode, but we should follow some [guidelines].  If we're struggling to find the right level of detail, the right mix of English and coding terms, etc. we can reference this [standard], which provides some examples.
 
 
 ## Conclusion
